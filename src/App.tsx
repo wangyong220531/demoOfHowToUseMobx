@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { observer } from 'mobx-react-lite'
 import countStore from './store/countStore'
 import './App.css'
